@@ -1,4 +1,4 @@
-# VISUAL NUTS - CHALLENGE 1
+# VISUAL NUTS - CHALLENGE 2
 Exercise Number 2 description:
 
 Image you have a set of data in JSON, describing official languages spoken by countries, as
